@@ -36,6 +36,7 @@ I am an MIS major with a deep passion for networking, and I am eager to build a 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/CCNA-blue?style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/CYSA%2B-red?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CYSA+ Certification" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
